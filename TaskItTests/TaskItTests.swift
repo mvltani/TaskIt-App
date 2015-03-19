@@ -2,8 +2,8 @@
 //  TaskItTests.swift
 //  TaskItTests
 //
-//  Created by Patrick Multani on 09/02/15.
-//  Copyright (c) 2015 Less and Better. All rights reserved.
+//  Created by Eliot Arntz on 9/20/14.
+//  Copyright (c) 2014 BitFountain. All rights reserved.
 //
 
 import UIKit
